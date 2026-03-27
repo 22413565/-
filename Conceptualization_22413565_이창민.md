@@ -3,7 +3,6 @@
 Wireless Table Order (WT Order)
 
 <img width="1536" height="1024" alt="logo" src="https://github.com/user-attachments/assets/475da597-6514-4827-8c06-67e60cd3f5ab" />
-![logo](https://github.com/user-attachments/assets/475da597-6514-4827-8c06-67e60cd3f5ab)
 
 Student No  
 22413565  
@@ -56,7 +55,6 @@ WTOrder는 음식점에서 사용되는 테이블 오더 시스템의 개념을 
 # 2. System context diagram
 
 <img width="1536" height="1024" alt="diagram" src="https://github.com/user-attachments/assets/25ecf5b9-977d-4bca-9f35-bf0997bb595e" />
-![diagram](https://github.com/user-attachments/assets/25ecf5b9-977d-4bca-9f35-bf0997bb595e)
 
 
 # 3. Use case list
