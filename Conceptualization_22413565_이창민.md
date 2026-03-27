@@ -15,13 +15,14 @@ pect5511@naver.com
 
 [ Revision history ]
 
-Revision date 
+Revision date  
 Version #  
-Description 
+Description  
 Author  
-2026.03.23
-1.00
-First draft
+
+2026.03.23  
+1.00  
+First draft  
 
 = Contents =
 
