@@ -16,9 +16,10 @@ pect5511@naver.com
 [ Revision history ]
 
 | Revision date | Version # | Description | Author |
-|--------------|-----------|-------------|--------|
-| 2026.03.23 | 1.00 | First draft | 이창민 |
-| 2026.05.30 | 1.10 | App separation, POS integration, Store PC Manager, table order management added | 이창민 |
+|--------------|----------|------------|--------|
+| 2026/04/24 | 1.00 | 초기 버전 | 이창민 |
+| 2026/05/30 | 1.10 | App 분리, POS 연동, Store PC Manager, 테이블별 주문 관리 기능 반영 | 이창민 |
+
 
 = Contents =
 
