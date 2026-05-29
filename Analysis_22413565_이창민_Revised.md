@@ -87,7 +87,7 @@ WTOrder System의 기술적 목표는 다음과 같다.
 
 ## 2.1. Use Case Diagram
 
-아래의 그림은 수정된 WTOrder System의 Use Case Diagram을 Mermaid 코드로 나타낸 것이다.  
+아래의 그림은 수정된 WTOrder System의 Use Case Diagram을 나태낸 것이다.  
 Conceptualization 단계에서 정의한 기능을 바탕으로 Actor와 Use Case를 다시 도출하였다.  
 Actor는 Customer, Kitchen, Store, Store PC Manager, Admin, POS System, WTOrder Server, Database로 구분하였다.
 
